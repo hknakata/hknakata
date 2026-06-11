@@ -77,7 +77,8 @@ Also: **UniApp · React Native · CI/CD · Oracle · MySQL**
 
 ### Connect
 
-[![Email](https://img.shields.io/badge/Email-hknakata@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hknakata@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hknakata@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hknakata@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-tsang-49167995)
 
 ---
 
