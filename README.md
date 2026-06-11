@@ -85,3 +85,8 @@ Also: **UniApp · React Native · CI/CD · Oracle · MySQL**
 ### Open to
 
 Project Manager · Delivery Lead · System Architect roles in Hong Kong and Greater China
+
+<!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hknakata&show_icons=true&theme=default&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hknakata&layout=compact&hide_border=true)
+-->
