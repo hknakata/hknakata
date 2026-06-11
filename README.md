@@ -24,8 +24,8 @@ I turn complex operations into scalable software — from requirements and syste
 |:---:|:---|
 | **10%** | Lead time reduction |
 | **80%** | Fewer customer enquiries |
-| **CNY 500K+** | Annual cost savings |
-| **CNY 480K** | Annual revenue (20 users, software & services) |
+| **Up to CNY 500K** | Annual cost savings |
+| **Up to CNY 480K** | Annual revenue (20 users, software & services) |
 
 At **Axolotech**, I led greenfield **WMS** and **TMS** rollouts on **AWS** and **Alibaba Cloud** with **CI/CD** — teams up to 10. Commercialized the platform as a recurring software & services business.
 
