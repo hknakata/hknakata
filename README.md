@@ -2,7 +2,7 @@
 
 **Project Manager / System Architect** · Hong Kong
 
-Delivery-focused IT leader with 18 years across logistics and healthcare. I own programs end-to-end — and I stay **hands-on** when teams need it.
+Delivery-focused IT leader with **19 years** in logistics and healthcare. I own programs end-to-end — and I stay **hands-on** when teams need it.
 
 `Manager` `Builder` `PMP` `SAFe`
 
@@ -26,6 +26,7 @@ I turn complex operations into scalable software — from requirements and syste
 | **80%** | Fewer customer enquiries |
 | **Up to CNY 500K** | Annual cost savings |
 | **Up to CNY 480K** | Annual revenue (20 users, software & services) |
+| **100+** | Roles automated via workflow redesign |
 
 At **Axolotech**, I led greenfield **WMS** and **TMS** rollouts on **AWS** and **Alibaba Cloud** with **CI/CD** — teams up to 10. Commercialized the platform as a recurring software & services business.
 
@@ -33,9 +34,19 @@ At **Axolotech**, I led greenfield **WMS** and **TMS** rollouts on **AWS** and *
 
 ### Experience
 
-- **Project Manager** @ Axolotech Limited · Sep 2024 – May 2026
+- **Project Manager** @ Axolotech · Sep 2024 – May 2026
 - **System Architect** @ Hospital Authority · Oct 2021 – Jul 2024
-- **IT Manager** @ Kerry Logistics Network Limited · Jan 2017 – Sep 2021
+- **IT Manager** @ Kerry Logistics · Jan 2017 – Sep 2021
+- **System Analyst** @ Kerry Logistics · Jun 2015 – Dec 2016
+- **Deputy Manager of IT** @ Kerry EAS · Jan 2015 – May 2015
+- **Senior System Analyst** @ Kerry EAS · Jan 2013 – Dec 2014
+- **System Analyst** @ Kerry EAS · Sep 2011 – Dec 2012
+- **Analyst Programmer** @ Kerry Logistics · Nov 2010 – Aug 2011
+- **Analyst Programmer** @ IES · Apr 2010 – Oct 2010
+- **Information Technology Officer / Analyst Programmer** @ IES / CSD · Jun 2008 – Mar 2010
+- **Programmer** @ IES · Jun 2007 – May 2008
+- **Web Programmer (Part-time)** @ Eastern Red · Dec 2005 – Jun 2006
+- **Data Entry Operator (Part-time)** @ Security Mail · Oct 2006 – Feb 2007
 
 Domains: warehouse & transport systems, healthcare/clinical platforms, EDI, cross-border logistics, government IT.
 
@@ -65,13 +76,13 @@ Also: **UniApp · React Native · CI/CD · Oracle · MySQL**
 
 ### Certifications
 
-`SCJP 2011` `PMP 2015` `Agile Project Management 2016` `SAFe Scrum Master 2021`
+`SCJP (Sun Certified Java Programmer) 2011` `PMP (Project Management Professional) 2015` `Agile Project Management 2016` `SAFe Scrum Master 2021`
 
 ---
 
 ### Education
 
-**MCom (Applied Finance)** — University of Queensland · **BIT** — University of Queensland
+**MCom (Applied Finance)** — University of Queensland · **Bachelor of Information Technology** — University of Queensland · **New Zealand Bursary (National School Certificate for University Entry)** — Glendowie College, Auckland, New Zealand
 
 ---
 
